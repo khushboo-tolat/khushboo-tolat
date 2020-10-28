@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**khushboo-tolat/khushboo-tolat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello,
+### I'm Khushboo Tolat
+### I'm Frontend Developer.
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/khushboo-tolat/">
+  <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/khushboo-tolat">
+  <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working to enhance my skills.
+- 🌱 I’m currently learning Angulr and React.
+- 😄 Pronouns: you/she/her
+- ⚡ Fun fact: I love music.
