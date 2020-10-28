@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-## Hello, I'm Khushboo Tolat
+## I'm Khushboo Tolat
 ### I'm Frontend Developer 💻
-
-<br/>
 
 <a href="https://www.linkedin.com/in/khushboo-tolat/">
   <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -20,4 +18,6 @@
 - 😄 Pronouns: you/she/her.
 - ⚡ Fun fact: I love Music ❤
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khushboo-tolat&theme=light" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushboo-tolat&theme=light" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushboo-tolat&theme=light&show_icons=true" alt="Khushboo's github stats"/>
