@@ -18,6 +18,6 @@
 - 😄 Pronouns: you/she/her.
 - ⚡ Fun fact: I love Music ❤
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushboo-tolat&theme=light" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushboo-tolat&theme=vue" alt="Khushboo's Language stats"/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushboo-tolat&theme=light&show_icons=true" alt="Khushboo's github stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushboo-tolat&theme=vue&show_icons=true&count_private=true" alt="Khushboo's GitHub stats"/>
