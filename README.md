@@ -10,6 +10,14 @@
   <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
+<a href="mailto:khushbootolat6@gmail.com">
+  <img align="left" alt="gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+
+<a href="https://www.hackerrank.com/khushboo_tolat">
+  <img align="left" alt="hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+</a>
+
 <br/>
 <br/>
 
