@@ -21,7 +21,7 @@
 <br/>
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=khushboo-tolat&theme=vue&show_icons=true&count_private=true" alt="Khushboo's GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=khushboo-tolat&theme=vue-dark&show_icons=true&count_private=true" alt="Khushboo's GitHub stats"/>
 
 <br/>
 
