@@ -1,4 +1,4 @@
-<img src="https://github.com/khushboo-tolat/khushboo-tolat/readme_images/circle header.png" alt="header" />
+<!-- <img src="https://github.com/khushboo-tolat/khushboo-tolat/readme_images/circle header.png" alt="header" /> --->
 
 <h1 align='center'> Hello there! I'm Khushboo Tolat Modi. 👋</h1>
 
@@ -47,4 +47,4 @@
     <img alt="instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   </a>
 </p>
-<img src="https://github.com/khushboo-tolat/khushboo-tolat/readme_images/circle footer.png" alt="footer" />
+<!-- <img src="https://github.com/khushboo-tolat/khushboo-tolat/readme_images/circle footer.png" alt="footer" /> -->
