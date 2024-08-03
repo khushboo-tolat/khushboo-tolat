@@ -3,12 +3,30 @@
 <h3 align='center'> Frontend Developer | JS Enthusiast | React </h3>
 
 <br/>
+
+<p>
+I am a Frontend Developer with over three years of industry experience, specializing in creating interactive user interfaces using React and JavaScript. My skills include understanding customer requirements to deliver optimal solutions and ensuring projects are completed on time.
+
+I hold a Master's degree in Information Technology from DAIICT-Gandhinagar, which has equipped me with a broad range of skills and knowledge that I apply daily in my work. I am committed to continuous learning and staying updated with the latest industry trends.
+
+In my free time, I love listening to music, painting, and experimenting with culinary creations.
+
+I am eager to contribute my skills to innovative frontend projects.
+</p>
+
 <br/>
 
-<h2>👩🏼‍🎓 Skills: </h2>
-<img alt='My skills' src='https://skillicons.dev/icons?i=react,redux,js,ts,bootstrap,tailwind,sass,css,html,java,firebase,figma'/>
+<h2>🎓 Skills: </h2>
 
-<br/>
+<h3>Programming Languages: </h3>
+<img alt='My skills' src='https://skillicons.dev/icons?i=react,redux,js,ts,bootstrap,tailwind,sass,java'/>
+
+<h3>Tools: </h3>
+<img alt='My skills' src='https://skillicons.dev/icons?i=firebase,figma,git,github,vscode'/>
+
+<h3>Database: </h3>
+<img alt='My skills' src='https://skillicons.dev/icons?i=mysql,mongodb'/>
+
 <br/>
 
 <h2>📬 How to connect with me?</h2>
@@ -33,10 +51,14 @@
 <br/>
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushboo-tolat&theme=light&langs_count=4&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=ffffff&border_color=21262d&border_radius=10" alt="Khushboo's Language Used"/>
+<p float='left'>
+  <img src="https://github-readme-stats.vercel.app/api?username=khushboo-tolat&theme=vue&show_icons=true" alt="Language Used Stats"/>
+  &nbsp&nbsp&nbsp&nbsp
+  <img src="https://streak-stats.demolab.com/?user=khushboo-tolat&theme=vue" alt="GitHub stats"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=khushboo-tolat&theme=vision-friendly-dark&show_icons=true&count_private=true" alt="Khushboo's GitHub stats"/>
-
+<br/>
+<br/>
 
 <p align="center"> 
   Visitors count<br>
