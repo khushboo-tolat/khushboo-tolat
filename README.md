@@ -29,7 +29,7 @@ I am eager to contribute my skills to innovative frontend projects.
 
 <br/>
 
-<h2>📬 How to connect with me?</h2>
+<h2>🌐 Web Appearance</h2>
 <a href="https://www.linkedin.com/in/khushboo-tolat/">
   <img  alt='LinkedIn' src='https://skillicons.dev/icons?i=linkedin'/>
 </a>
@@ -51,9 +51,12 @@ I am eager to contribute my skills to innovative frontend projects.
 <br/>
 <br/>
 
-<p float='left'>
-  <img src="https://github-readme-stats.vercel.app/api?username=khushboo-tolat&theme=vue&show_icons=true" alt="Language Used Stats"/>
-  &nbsp&nbsp&nbsp&nbsp
+<p float='left' align='center'>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khushboo-tolat&theme=vue&layout=compact&hide=php,html,css&langs_count=4" alt="Language Used Stats"/>
+  <br/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=khushboo-tolat&theme=vue&show_icons=true" alt="GitHub Stats"/>
+    &nbsp&nbsp&nbsp&nbsp
   <img src="https://streak-stats.demolab.com/?user=khushboo-tolat&theme=vue" alt="GitHub stats"/>
 </p>
 
