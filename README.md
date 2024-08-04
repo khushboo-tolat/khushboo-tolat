@@ -25,7 +25,11 @@ I am eager to contribute my skills to innovative frontend projects.
 <img alt='My skills' src='https://skillicons.dev/icons?i=firebase,figma,git,github,vscode'/>
 
 <h3>Database: </h3>
+<span float="left">
+<img title="SQL" alt="SQL" height='50px' width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">
+&nbsp
 <img alt='My skills' src='https://skillicons.dev/icons?i=mysql,mongodb'/>
+</span>
 
 <br/>
 
@@ -33,15 +37,27 @@ I am eager to contribute my skills to innovative frontend projects.
 <a href="https://www.linkedin.com/in/khushboo-tolat/">
   <img  alt='LinkedIn' src='https://skillicons.dev/icons?i=linkedin'/>
 </a>
+&nbsp
 <a href="mailto:khushbootolat6@gmail.com">
   <img  alt='mail' src='https://skillicons.dev/icons?i=gmail'/>
 </a>
+&nbsp
 <a href="https://dev.to/khushboo-tolat">
   <img  alt='dev' src='https://skillicons.dev/icons?i=devto'/>
 </a>
+&nbsp
 <a href="https://khushboo-tolat.medium.com/">
   <img  alt='medium' src='https://go-skill-icons.vercel.app/api/icons?i=mojo'/>
 </a>
+&nbsp
+<a href="https://www.hackerrank.com/profile/khushboo_tolat">
+  <img  alt='hackerrank' width="50px" src='https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png'>
+</a>
+&nbsp
+<a href="https://www.geeksforgeeks.org/user/khushbootolat/">
+  <img  alt='hackerrank' width="50px" height='50px' src='https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg'>
+</a>
+&nbsp
 <a href="https://instagram.com/khushboo_tolat">
   <img  alt='instagram' src='https://skillicons.dev/icons?i=instagram'/>
 </a>
